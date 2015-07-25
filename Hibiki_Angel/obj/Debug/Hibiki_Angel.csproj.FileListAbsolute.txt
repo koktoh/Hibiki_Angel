@@ -1,0 +1,10 @@
+C:\Users\Yusuke\Desktop\Hibiki_Angel\Hibiki_Angel\obj\Debug\Hibiki_Angel.csprojResolveAssemblyReference.cache
+C:\Users\Yusuke\Desktop\Hibiki_Angel\Hibiki_Angel\obj\Debug\Hibiki_Angel.Form1.resources
+C:\Users\Yusuke\Desktop\Hibiki_Angel\Hibiki_Angel\obj\Debug\Hibiki_Angel.Properties.Resources.resources
+C:\Users\Yusuke\Desktop\Hibiki_Angel\Hibiki_Angel\obj\Debug\Hibiki_Angel.csproj.GenerateResource.Cache
+C:\Users\Yusuke\Desktop\Hibiki_Angel\Hibiki_Angel\obj\Debug\Hibiki_Angel.Form2.resources
+C:\Users\Yusuke\Desktop\Hibiki_Angel\Hibiki_Angel\bin\Debug\響ちゃんマジ天使言語.exe.config
+C:\Users\Yusuke\Desktop\Hibiki_Angel\Hibiki_Angel\bin\Debug\響ちゃんマジ天使言語.exe
+C:\Users\Yusuke\Desktop\Hibiki_Angel\Hibiki_Angel\bin\Debug\響ちゃんマジ天使言語.pdb
+C:\Users\Yusuke\Desktop\Hibiki_Angel\Hibiki_Angel\obj\Debug\響ちゃんマジ天使言語.exe
+C:\Users\Yusuke\Desktop\Hibiki_Angel\Hibiki_Angel\obj\Debug\響ちゃんマジ天使言語.pdb
